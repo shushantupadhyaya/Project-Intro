@@ -1,5 +1,3 @@
-function myfunction()
-{
-    document.getElementById("abc").innerHTML = "Changed Happens!";
-    
+function myfunction() {
+  document.getElementById("abc").innerHTML = "Changed Happens!";
 }
