@@ -1,4 +1,3 @@
 # Project-Intro
 
-## Combination Of
-# HTML + #CSS + #JavaScript 
+# HTML + CSS + JavaScript 
