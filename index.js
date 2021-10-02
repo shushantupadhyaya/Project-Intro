@@ -1,3 +1,3 @@
 function myfunction() {
-  document.getElementById("abc").innerHTML = "Changes       Happens!";
+  document.getElementById("abc").innerHTML = "Changes &#160Happens!";
 }
