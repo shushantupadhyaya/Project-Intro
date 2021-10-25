@@ -22,7 +22,7 @@ h1 {
 }
 
 #ok{
-    border-bottom: 20px double #ffff01;
+    border: 20px double #ffff01;
     padding: 3px;
     border-radius:5px;
     background-color: lightcyan;
