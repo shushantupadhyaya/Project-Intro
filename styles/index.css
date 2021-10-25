@@ -10,6 +10,8 @@ h1 {
 
 a#colin:unvisited {
   color:red;
+  background-color: white;
+  text-decoration: underline;
 }
 
 #abc {
