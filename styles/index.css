@@ -1,11 +1,35 @@
 body {
-  background-color:rgb(69, 174, 245);
+  background-color:rgb(50, 179, 230);
 }
 
 h1 {
   color: aquamarine;
   font-size: 70px;
   font-weight: bold;
+}
+
+a#colin:unvisited {
+  color:red;
+  background-color: white;
+  text-decoration: underline;
+}
+
+a#colin:visited {
+  color:rgb(0, 255, 55);
+  background-color: white;
+  text-decoration: underline;
+}
+
+a#colin:hover {
+  color:rgb(238, 255, 0);
+  background-color: white;
+  text-decoration: underline;
+}
+
+a#colin:active {
+  color:rgb(243, 16, 213);
+  background-color: white;
+  text-decoration: underline;
 }
 
 #abc {
