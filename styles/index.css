@@ -8,6 +8,9 @@ h1 {
   font-weight: bold;
 }
 
+a#colin:unvisited {
+  color:red;
+}
 
 #abc {
   color: blue;
