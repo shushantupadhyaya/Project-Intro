@@ -3,5 +3,5 @@ function myfunction() {
 }
 
 function myfun2() {
-  document.location="list.html";
+  document.location="a.html";
 }
