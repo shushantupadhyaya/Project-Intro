@@ -1,8 +1,13 @@
+body {
+  background-color:rgb(117, 181, 246);
+}
+
 h1 {
   color: aquamarine;
   font-size: 70px;
   font-weight: bold;
 }
+
 
 #abc {
   color: blue;
@@ -13,5 +18,12 @@ h1 {
 }
 
 #glink {
-    text-align: center;
+  text-align: center;
+}
+
+#ok{
+    border-left: 20px double #ffff01;
+    padding: 3px;
+    border-radius:5px;
+    background-color: lightcyan;
 }
